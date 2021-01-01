@@ -14,5 +14,5 @@ This is the GPR Layer Tracing Application I developed for my thesis work at Dart
 [GPR_Example_1.DZG](./GPR_Example_1.DZG) / [GPR_Example_2.DZG](./GPR_Example_2.DZG)
 > Native GPS record for the SIR30 of where the data was collected. The ALPS application automatically searches for either a .DZG or .kml file to geolocate the layers when opening a GPR file (.dzt).
 
-[GPR_Example_1.kml](./GPR_Example_1.kml) / [GPR_Example_2.kml](./GPR_Example_2.kml)
+[GPR_Example_1.KML](./GPR_Example_1.KML) / [GPR_Example_2.KML](./GPR_Example_2.KML)
 > KML file of GPS record of where the data was collected. The ALPS application automatically searches for either a .DZG or .kml file to geolocate the layers when opening a GPR file (.dzt).
