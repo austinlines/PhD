@@ -7,5 +7,5 @@
 [AAA_ImmobilizationDetection.m](./AAA_ImmobilizationDetection.m)
 > This is the top-level m-file. Run this file after importing all other files into the same folder.
 <br />
-Event Files
+Event Files <br />
 > All .mat files that start with "event" are data (described in Chapter 5) and serve as test files for applying the Immobilization Detection Algorithm. These are loaded at the start of the top-level (AAA) file.
