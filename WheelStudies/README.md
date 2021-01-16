@@ -1,6 +1,6 @@
 # Wheel Study
 - Allows for varying two independent variables and plotting the results
-- Described in Chapter 3 of my PhD thesis
+- Described in Chapter 3 of my [PhD thesis](../Thesis/Thesis_AustinLines_FINAL.pdf)
 
 
 ## CONTENTS
