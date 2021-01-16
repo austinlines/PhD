@@ -1,4 +1,4 @@
-#Average Square Difference Function Layer Picking System (ALPS)
+# Average Square Difference Function Layer Picking System (ALPS)
 - A GPR layer tracing algorithm
 - Described in Chapter 2 of my PhD thesis
 
