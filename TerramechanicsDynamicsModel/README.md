@@ -1,6 +1,6 @@
 # Terramechanics/Dynamics Truth Model
 - Model for a four-wheeled robot operating in snow
-- Described in Chapter 6 of my PhD thesis
+- Described in Chapter 6 of my [PhD thesis](../Thesis/Thesis_AustinLines_FINAL.pdf)
 
 
 ## CONTENTS
