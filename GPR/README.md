@@ -1,5 +1,6 @@
-
-This is the GPR Layer Tracing Application I developed for my thesis work at Dartmouth College.
+#Average Square Difference Function Layer Picking System (ALPS)
+- A GPR layer tracing algorithm
+- Described in Chapter 2 of my PhD thesis
 
 # CONTENTS
 [ALPS.mlappinstall](./ALPS.mlappinstall)
