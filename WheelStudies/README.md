@@ -6,3 +6,5 @@
 ## CONTENTS
 [AAA_WheelParameterStudy.m](./AAA_WheelParameterStudy.m)
 > This is the top-level m-file. Run this file after importing all other files into the same folder.
+
+All other files in this folder are called by the top-level (AAA) file.
