@@ -1,6 +1,6 @@
 # Immobilization Detection Algorithm
 - Allows for incipient immobilization to be detected for a four-wheeled rover operating on snow
-- Described in Chapter 7 of my [PhD thesis](../Thesis_AustinLines_FINAL.pdf)
+- Described in Chapter 7 of my [PhD thesis](../../Thesis_AustinLines_FINAL.pdf)
 
 
 ## CONTENTS
