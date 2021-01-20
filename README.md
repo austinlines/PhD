@@ -7,5 +7,5 @@
 [Thesis_AustinLines_FINAL.pdf](./Thesis_AustinLines_FINAL.pdf)
 > PDF of my thesis
 
-[Thesis - Code](Thesis - Code)
+[Thesis - Code](https://github.com/austinlines/PhD/tree/main/Thesis%20-%20Code)
 > Folder containing all the code referenced in my thesis
