@@ -7,5 +7,5 @@
 [Thesis_AustinLines_FINAL.pdf](./Thesis_AustinLines_FINAL.pdf)
 > PDF of my thesis
 
-[Thesis - Code](./Thesis - Code)
+[Thesis - Code](Thesis - Code)
 > Folder containing all the code referenced in my thesis
