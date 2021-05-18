@@ -4,7 +4,7 @@
 
 ## CONTENTS
 [ALPS.mlappinstall](./ALPS.mlappinstall)
-> Install file for a MATLAB application. Just open it with MATLAB and it will install, or go to APPS -> Install App and open the file. Once installed, it will be listed under the APPS tab. If you prefer to have the .m files, then extract all the files (use any unzip tool on the .mlappinstall file). The top level file is called "GPR_LayerTracker.mlapp"
+> Install file for a MATLAB application. Just open it with MATLAB and it will install, or go to APPS -> Install App and open the file. Once installed, it will be listed under the APPS tab. If you prefer to have the .m files, then extract all the files (use any unzip tool on the .mlappinstall file). The top level file is called "GPR_LayerTracker.mlapp". You will need the Image Processing Toolbox installed to use all the features of this application.
 
 [GPR_Example_1.DZT](./GPR_Example_1.DZT) / [GPR_Example_2.DZT](./GPR_Example_2.DZT)
 > Example GPR files collectd with a GSSI SIR30 in Greenland that have been preprocessed to test the functionality of the ALPS application.
